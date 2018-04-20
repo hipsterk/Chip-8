@@ -3,7 +3,7 @@ CC = /usr/bin/g++
 OPTS := -std=gnu++11 -Wall -Werror
 
 # Project name
-PROJECT = SpaceInvaders.out
+PROJECT = Chip-8.out
 
 # Directories
 OBJDIR = build
