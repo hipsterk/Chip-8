@@ -1,5 +1,5 @@
 For output that matches `hexdump -v invaders.h`
-    `od -A x -tx1 --endian=big invaders.h`
+    `od -A x -tx1 invaders.h`
     -A x
         base in which offsets are printed
             x = hex

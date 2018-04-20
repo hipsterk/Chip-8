@@ -1,6 +1,3 @@
-# Ignore the folder that contains the game ROM
-ROM/
-
 # Ignore the build and lib dirs
 build/
 lib/*
